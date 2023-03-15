@@ -1,7 +1,7 @@
 #title {
   margin-left: 50px;
   font-weight: bolder;
-  color: rgb(4, 201, 4);
+  color: rgb(15, 224, 43);
 }
 
 #Thebod {
@@ -11,13 +11,15 @@
   text-align: center;
   font-style: oblique;
   color: yellow;
-
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
 
-p {
+.picture {
+  display: block;
+  
+  margin-left: 33%;
+  width: 33%;
+
+}
+.ipsum {
   color:rgb(211, 211, 211);
 }
