@@ -1,0 +1,16 @@
+#title {
+  margin-left: 50px;
+  font-weight: bolder;
+  color: green;
+}
+
+.intro {
+  text-align: center;
+  font-style: oblique;
+  color: yellow;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
